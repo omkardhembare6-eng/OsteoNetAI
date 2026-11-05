@@ -1,0 +1,31 @@
+OPDoctorNet XGBoost Model — Accuracy Summary
+==================================================
+
+Dataset         : osteoporosis.csv
+Samples         : 1958
+Test split      : 20%  (392 samples)
+
+Test Set Metrics
+----------------------------------------
+Accuracy         : 0.8929
+Precision        : 0.9936
+Recall           : 0.7908
+F1-Score         : 0.8807
+ROC-AUC          : 0.9329
+Avg Precision    : 0.9528
+
+5-Fold CV Accuracy
+----------------------------------------
+Scores           : [0.8877551  0.91836735 0.92346939 0.9028133  0.89258312]
+Mean ± Std       : 0.9050 ± 0.0140
+
+Classification Report
+----------------------------------------
+                 precision    recall  f1-score   support
+
+No Osteoporosis       0.83      0.99      0.90       196
+   Osteoporosis       0.99      0.79      0.88       196
+
+       accuracy                           0.89       392
+      macro avg       0.91      0.89      0.89       392
+   weighted avg       0.91      0.89      0.89       392

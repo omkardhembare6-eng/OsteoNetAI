@@ -1,0 +1,12 @@
+Name,Age,Gender,Hormonal Changes,Family History,Race/Ethnicity,Body Weight,Calcium Intake,Vitamin D Intake,Physical Activity,Smoking,Alcohol Consumption,Medical Conditions,Medications,Prior Fractures
+Priya Sharma,65,Female,Postmenopausal,Yes,Asian,Underweight,Low,Insufficient,Sedentary,Yes,Frequent,Rheumatoid Arthritis,Corticosteroids,Yes
+Rahul Patil,30,Male,Normal,No,Caucasian,Normal,Adequate,Sufficient,Active,No,None,None,None,No
+Sneha Desai,55,Female,Estrogen Deficiency,Yes,Asian,Underweight,Low,Insufficient,Sedentary,No,Moderate,Hyperthyroidism,Corticosteroids,Yes
+Omkar Chavan,42,Male,Normal,No,Caucasian,Overweight,Adequate,Sufficient,Moderate,No,None,None,None,No
+Anjali Kulkarni,70,Female,Postmenopausal,Yes,African American,Normal,Low,Insufficient,Sedentary,Yes,Moderate,Type 1 Diabetes,Corticosteroids,Yes
+Amit Joshi,28,Male,Normal,No,Asian,Normal,Adequate,Sufficient,Active,No,None,None,None,No
+Meera Iyer,60,Female,Postmenopausal,No,Caucasian,Underweight,Low,Insufficient,Sedentary,No,None,Rheumatoid Arthritis,None,No
+Rohan Mehta,50,Male,Normal,Yes,African American,Overweight,Adequate,Sufficient,Moderate,Yes,Frequent,None,None,No
+Kavita Nair,75,Female,Estrogen Deficiency,Yes,Asian,Underweight,Low,Insufficient,Sedentary,Yes,Moderate,Hyperthyroidism,Corticosteroids,Yes
+Vikram Singh,35,Male,Normal,No,Caucasian,Normal,Adequate,Sufficient,Active,No,None,None,None,No
+
